@@ -1,0 +1,466 @@
+{
+    "languages": {
+        "en": {
+            "id": 1,
+            "title": "English",
+            "value": "en"
+        },
+        "id": {
+            "id": 2,
+            "title": "Indonesia",
+            "value": "id"
+        }
+    },
+    "navigation": {
+        "en": [
+          {
+            "id": 1,
+            "title": "Company",
+            "sub": [
+              {
+                "id": 11,
+                "title": "Who We Are",
+                "description": "An overview of our company."
+              },
+              {
+                "id": 12,
+                "title": "Vision, Mission & Commitment",
+                "description": "Discover our company's long-term goals and aspirations."
+              },
+              {
+                "id": 13,
+                "title": "Management",
+                "description": "Learn about the key people responsible for guiding our company's strategy and vision."
+              },
+              {
+                "id": 14,
+                "title": "Structure",
+                "description": "Get a sense of how our company is structured, and how different departments and teams work together to achieve our goals."
+              },
+              {
+                "id": 15,
+                "title": "Value & Strategy",
+                "description": "Dive deeper into our company's values and strategic approach."
+              },
+              {
+                "id": 16,
+                "title": "Company History",
+                "description": "Explore our company's journey over time, from its founding to the present day."
+              },
+              {
+                "id": 17,
+                "title": "Safety, Health & Environment",
+                "description": "Learn about our company's commitment to safety, health, and the environment."
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "title": "Business",
+            "sub": [
+                {
+                    "id": 21,
+                    "title": "Investment",
+                    "description": "Explore our investment portfolio and learn about our investment strategies."
+                },
+                {
+                    "id": 22,
+                    "title": "Realty & Property",
+                    "description": "Discover our real estate and property development projects."
+                },
+                {
+                    "id": 23,
+                    "title": "Infrastructure & Building",
+                    "description": "Learn about our infrastructure and building projects."
+                },
+                {
+                    "id": 24,
+                    "title": "Energy & Industrial Plant",
+                    "description": "Explore our energy and industrial plant projects."
+                },
+                {
+                    "id": 25,
+                    "title": "Industry",
+                    "description": "Learn about our industrial projects."
+                }
+            ]
+          },
+          {
+            "id": 3,
+            "title": "Investor",
+            "sub": [
+                {
+                    "id": 31,
+                    "title": "IR Home",
+                    "description": "Find all the information you need to make informed investment decisions and stay up-to-date on our company's performance."
+                },
+                {
+                    "id": 32,
+                    "title": "Corporate Information",
+                    "description": "Learn more about our group structure, shareholdings, capital market supporting institutions."
+                },
+                {
+                    "id": 33,
+                    "title": "Financial Information",
+                    "description": "Get access to our company's financial reports."
+                },
+                {
+                    "id": 34,
+                    "title": "Disclosures",
+                    "description": "Review our company's disclosures."
+                },
+                {
+                    "id": 35,
+                    "title": "General Meeting of Shareholders",
+                    "description": "Find out about our company's annual general meeting of shareholders."
+                },
+                {
+                    "id": 36,
+                    "title": "Debt & Bond Investors",
+                    "description": "Learn about our company's debt and bond offerings."
+                },
+                {
+                    "id": 37,
+                    "title": "Stock Information",
+                    "description": "Get up-to-date information on our company's stock."
+                },
+                {
+                    "id": 38,
+                    "title": "Information Request",
+                    "description": "Have a question or need more information? Use this page to submit an information request and get in touch with our investor relations team."
+                }
+            ]
+          },
+          {
+            "id": 4,
+            "title": "Media & Information",
+            "sub": [
+                {
+                    "id": 41,
+                    "title": "Newsroom",
+                    "description": "Stay up-to-date with the latest news and updates from our company."
+                },
+                {
+                    "id": 42,
+                    "title": "Press Release",
+                    "description": "Stay informed about our company's latest developments."
+                },
+                {
+                    "id": 43,
+                    "title": "E-Magazine",
+                    "description": "Learn about the latest trends and innovations in our field."
+                },
+                {
+                    "id": 44,
+                    "title": "Related Videos",
+                    "description": "See our products and services in action and learn more about our company's mission and values."
+                },
+                {
+                    "id": 45,
+                    "title": "Press Kit",
+                    "description": "See how our brand is represented and get the resources you need for your story."
+                },
+                {
+                    "id": 46,
+                    "title": "Award, Certification & Record",
+                    "description": "See how we're recognized for our commitment to excellence and learn about our achievements."
+                },
+                {
+                    "id": 47,
+                    "title": "PPID",
+                    "description": "Find out about our company's public information and documentation center."
+                }
+            ]
+          },
+          {
+            "id": 5,
+            "title": "Compliance",
+            "sub": [
+                {
+                    "id": 51,
+                    "title": "GCG",
+                    "description": "Learn about our company's commitment to good corporate governance."
+                },
+                {
+                    "id": 52,
+                    "title": "Sustainability",
+                    "description": "Discover how our company is working to be more sustainable."
+                }
+            ]
+          },
+          {
+            "id": 6,
+            "title": "Careers",
+            "sub": [
+                {
+                    "id": 61,
+                    "title": "Human Capital Overview",
+                    "description": "Learn about our company's approach to human capital management."
+                },
+                {
+                    "id": 62,
+                    "title": "Application Form",
+                    "description": "Apply for job openings at our company by filling out our online application form."
+                },
+                {
+                    "id": 63,
+                    "title": "Gallery",
+                    "description": "Get a glimpse of what it's like to work at our company and see some of the exciting things we're working on."
+                }
+            ]
+          }
+        ],
+        "id": [
+            {
+                "id": 1,
+                "title": "Perusahaan",
+                "sub": [
+                  {
+                    "id": 11,
+                    "title": "Siapa Kami",
+                    "description": "Pelajari identitas, budaya, dan nilai-nilai perusahaan kami."
+                  },
+                  {
+                    "id": 12,
+                    "title": "Visi, Misi & Komitmen",
+                    "description": "Pelajari tentang tujuan jangka panjang dan objektif perusahaan kami, serta tujuan dan arah kami."
+                  },
+                  {
+                    "id": 13,
+                    "title": "Manajemen",
+                    "description": "Pelajari tentang orang-orang yang bertanggung jawab untuk memandu strategi dan visi perusahaan kita."
+                  },
+                  {
+                    "id": 14,
+                    "title": "Struktur",
+                    "description": "Pahami bagaimana struktur perusahaan kita, dan bagaimana berbagai departemen dan tim bekerja sama untuk mencapai tujuan kita."
+                  },
+                  {
+                    "id": 15,
+                    "title": "Nilai & Strategi",
+                    "description": "Selami lebih dalam nilai-nilai dan pendekatan strategis perusahaan kami."
+                  },
+                  {
+                    "id": 16,
+                    "title": "Sejarah Perusahaan",
+                    "description": "Jelajahi perjalanan perusahaan kami dari waktu ke waktu, dari pendiriannya hingga saat ini."
+                  },
+                  {
+                    "id": 17,
+                    "title": "Kesehatan, Kesalamatan & Lingkungan",
+                    "description": "Pelajari tentang komitmen perusahaan kami terhadap keselamatan, kesehatan, dan lingkungan."
+                  }
+                ]
+              },
+              {
+                "id": 2,
+                "title": "Business",
+                "sub": [
+                    {
+                        "id": 21,
+                        "title": "Investasi",
+                        "description": "Jelajahi portofolio investasi kami dan pelajari tentang strategi investasi kami."
+                    },
+                    {
+                        "id": 22,
+                        "title": "Realti & Properti",
+                        "description": "Temukan proyek pengembangan real estat dan properti kami."
+                    },
+                    {
+                        "id": 23,
+                        "title": "Infrastruktur & Bangunan",
+                        "description": "Pelajari tentang proyek infrastruktur dan bangunan kami."
+                    },
+                    {
+                        "id": 24,
+                        "title": "Energi & Pabrik Industri",
+                        "description": "Jelajahi proyek pembangkit listrik dan industri kami."
+                    },
+                    {
+                        "id": 25,
+                        "title": "Industri",
+                        "description": "Pelajari tentang proyek industri kami."
+                    }
+                ]
+              },
+              {
+                "id": 3,
+                "title": "Investor",
+                "sub": [
+                    {
+                        "id": 31,
+                        "title": "Beranda IR",
+                        "description": "Temukan semua informasi yang Anda perlukan untuk membuat keputusan investasi yang tepat dan tetap up-to-date dengan kinerja perusahaan kami."
+                    },
+                    {
+                        "id": 32,
+                        "title": "Informasi Perusahaan",
+                        "description": "Pelajari lebih lanjut tentang struktur grup, kepemilikan saham, lembaga pendukung pasar modal kami."
+                    },
+                    {
+                        "id": 33,
+                        "title": "Informasi Keuangan",
+                        "description": "Dapatkan akses ke laporan keuangan perusahaan kami."
+                    },
+                    {
+                        "id": 34,
+                        "title": "Keterbukaan",
+                        "description": "Tinjau pengungkapan perusahaan kami."
+                    },
+                    {
+                        "id": 35,
+                        "title": "Rapat Umum Pemegang Saham",
+                        "description": "Cari tahu tentang rapat umum pemegang saham tahunan perusahaan kita."
+                    },
+                    {
+                        "id": 36,
+                        "title": "Surat Utang & Obligasi",
+                        "description": "Pelajari tentang penawaran utang dan obligasi perusahaan kami."
+                    },
+                    {
+                        "id": 37,
+                        "title": "Stock Information",
+                        "description": "Dapatkan informasi terkini tentang saham perusahaan kami."
+                    },
+                    {
+                        "id": 38,
+                        "title": "Information Request",
+                        "description": "Gunakan halaman ini untuk mengirimkan permintaan informasi dan menghubungi tim hubungan investor kami."
+                    }
+                ]
+              },
+              {
+                "id": 4,
+                "title": "Media & Informasi",
+                "sub": [
+                    {
+                        "id": 41,
+                        "title": "Ruang Berita",
+                        "description": "Tetap up-to-date dengan berita terbaru dan update dari perusahaan kami."
+                    },
+                    {
+                        "id": 42,
+                        "title": "Siaran Pers",
+                        "description": "Tetap terinformasi tentang perkembangan terbaru perusahaan kami."
+                    },
+                    {
+                        "id": 43,
+                        "title": "Majalah Elektronik",
+                        "description": "Pelajari tentang tren dan inovasi terbaru di bidang kami."
+                    },
+                    {
+                        "id": 44,
+                        "title": "Video Terkait",
+                        "description": "Lihat produk dan layanan kami beraksi dan pelajari lebih lanjut tentang misi dan nilai perusahaan kami."
+                    },
+                    {
+                        "id": 45,
+                        "title": "Kit Pers",
+                        "description": "Lihat bagaimana brand kami direpresentasikan dan dapatkan sumber daya yang Anda butuhkan untuk cerita Anda."
+                    },
+                    {
+                        "id": 46,
+                        "title": "Penghargaan, Sertifikasi & Rekaman",
+                        "description": "Lihat bagaimana kami diakui atas komitmen kami terhadap keunggulan dan pelajari tentang pencapaian kami."
+                    },
+                    {
+                        "id": 47,
+                        "title": "PPID",
+                        "description": "Cari tahu tentang pusat informasi dan dokumentasi publik perusahaan kita."
+                    }
+                ]
+              },
+              {
+                "id": 5,
+                "title": "Compliance",
+                "sub": [
+                    {
+                        "id": 51,
+                        "title": "GCG",
+                        "description": "Pelajari tentang komitmen perusahaan kami terhadap tata kelola perusahaan yang baik."
+                    },
+                    {
+                        "id": 52,
+                        "title": "Keberlanjutan",
+                        "description": "Temukan bagaimana perusahaan kami bekerja untuk menjadi lebih berkelanjutan."
+                    }
+                ]
+              },
+              {
+                "id": 6,
+                "title": "Careers",
+                "sub": [
+                    {
+                        "id": 61,
+                        "title": "Gambaran Umum SDM",
+                        "description": "Pelajari tentang pendekatan perusahaan kami terhadap manajemen sumber daya manusia."
+                    },
+                    {
+                        "id": 62,
+                        "title": "Formulir Pendaftaran",
+                        "description": "Lamar pekerjaan yang tersedia di perusahaan kami dengan mengisi formulir aplikasi online kami."
+                    },
+                    {
+                        "id": 63,
+                        "title": "Galeri",
+                        "description": "Lihat sekilas bagaimana rasanya bekerja di perusahaan kami dan lihat beberapa hal menarik yang sedang kami kerjakan."
+                    }
+                ]
+              }
+        ]
+    },
+    "placeholder": {
+        "en": ["Stock Price Information", "Careers", "Sustainability Reports", "Financial Report"],
+        "id": ["Informasi Harga Saham", "Karir", "Laporan Keberlanjutan", "Laporan Keuangan"]
+    },
+    "hero": [
+        {
+            "id": 110,
+            "title": {
+                "en": "Indonesia's Leading Integrated EPC and Investment Company",
+                "id": "Perusahaan EPC dan Investasi Terintegrasi Terkemuka di Indonesia"
+            },
+            "description": {
+                "en": "We provides comprehensive services in the areas of engineering, procurement, and construction (EPC), as well as investment opportunities across a range of sectors in Indonesia.",
+                "id": "Kami menyediakan layanan komprehensif di bidang teknik, pengadaan, dan konstruksi (EPC), serta peluang investasi di berbagai sektor di Indonesia."
+            },
+            "images": "https://images.unsplash.com/photo-1599707254554-027aeb4deacd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=100"
+        },
+        {
+            "id": 111,
+            "title": "Jakarta International Stadium",
+            "description": {
+                "en": "WIKA Group produly present, one of our recent and most successful project located in North Jakarta. A high-tech football stadium developed to FIFA's standards.",
+                "id": ""
+            },
+            "images": "https://images.unsplash.com/photo-1594467974320-2cddc11e52bc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8c3RhZGl1bXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=1000&q=100"
+        },
+        {
+            "id": 112,
+            "title": "Pioneer of Indonesian Electric Motorcycle",
+            "description": {
+                "en": "GESITS Electric Motorcycle is a work done by Indonesian People. Initiated as a reserach project from Sepuluh Nopember Technology Institute (ITS) and supported by Ministry of Research and Higher Education. Manufactured in PT WIKA Industri Manufaktur at Cileungsi Plant, Bogor, West Java.",
+                "id": ""
+            },
+            "images": ""
+        },
+        {
+            "id": 113,
+            "title": "The Most Committed GRC Leader 2022",
+            "description": {
+                "en": "This year, WIKA won many awards, including 'The Most Committed GRC Leader 2022'. WIKA continues to bring quality to every part of the company's journey.",
+                "id": ""
+            },
+            "images": ""
+        },
+        {
+            "id": 114,
+            "title": "Corporate Social Responsibility",
+            "description": {
+                "en": "A concrete step from WIKA to carry out social responsibility, being empowered for those around us.",
+                "id": ""
+            },
+            "images": ""
+        }
+    ]
+}
